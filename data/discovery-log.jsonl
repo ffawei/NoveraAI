@@ -1324,3 +1324,35 @@
 {"timestamp": "2026-10-10T10:35:46.354623+00:00", "event": "tool_staged_for_review", "slug": "open-components", "category": "design-ux", "source": "Hacker News — Show HN AI"}
 {"timestamp": "2026-10-10T10:35:46.354687+00:00", "event": "tool_staged_for_review", "slug": "circleit", "category": "coding-development", "source": "Hacker News — Show HN AI"}
 {"timestamp": "2026-10-10T10:35:46.354730+00:00", "event": "tool_staged_for_review", "slug": "arcadium3d", "category": "design-ux", "source": "Hacker News — Show HN AI"}
+{"timestamp": "2026-10-11T10:48:21.058889+00:00", "event": "source_ok", "source": "Hacker News — Show HN AI", "candidates": 31}
+{"timestamp": "2026-10-11T10:48:21.060693+00:00", "event": "candidate_rejected", "name": "Whimkid", "reason": "low_confidence"}
+{"timestamp": "2026-10-11T10:48:21.060894+00:00", "event": "candidate_rejected", "name": "Github", "reason": "duplicate"}
+{"timestamp": "2026-10-11T10:48:21.060982+00:00", "event": "candidate_rejected", "name": "Suta", "reason": "low_confidence"}
+{"timestamp": "2026-10-11T10:48:21.061059+00:00", "event": "candidate_rejected", "name": "GSD Task Manager", "reason": "duplicate"}
+{"timestamp": "2026-10-11T10:48:21.061129+00:00", "event": "candidate_rejected", "name": "Github", "reason": "low_confidence"}
+{"timestamp": "2026-10-11T10:48:21.061256+00:00", "event": "candidate_rejected", "name": "Ascendaflow", "reason": "generic_fallback_description"}
+{"timestamp": "2026-10-11T10:48:21.061326+00:00", "event": "candidate_rejected", "name": "Github", "reason": "low_confidence"}
+{"timestamp": "2026-10-11T10:48:21.061408+00:00", "event": "candidate_rejected", "name": "Github", "reason": "duplicate"}
+{"timestamp": "2026-10-11T10:48:21.061472+00:00", "event": "candidate_rejected", "name": "Github", "reason": "duplicate"}
+{"timestamp": "2026-10-11T10:48:21.061545+00:00", "event": "candidate_rejected", "name": "Flopper", "reason": "low_confidence"}
+{"timestamp": "2026-10-11T10:48:21.061604+00:00", "event": "candidate_rejected", "name": "Crowdle", "reason": "low_confidence"}
+{"timestamp": "2026-10-11T10:48:21.061676+00:00", "event": "candidate_rejected", "name": "Tessary", "reason": "low_confidence"}
+{"timestamp": "2026-10-11T10:48:21.061736+00:00", "event": "candidate_rejected", "name": "ShipOrNah", "reason": "low_confidence"}
+{"timestamp": "2026-10-11T10:48:21.061857+00:00", "event": "candidate_rejected", "name": "OpenWants", "reason": "low_confidence"}
+{"timestamp": "2026-10-11T10:48:21.061953+00:00", "event": "candidate_rejected", "name": "Open Components", "reason": "duplicate"}
+{"timestamp": "2026-10-11T10:48:21.062025+00:00", "event": "candidate_rejected", "name": "Chrome Relay", "reason": "duplicate"}
+{"timestamp": "2026-10-11T10:48:21.062097+00:00", "event": "candidate_rejected", "name": "Veludocs", "reason": "low_confidence"}
+{"timestamp": "2026-10-11T10:48:21.062158+00:00", "event": "candidate_rejected", "name": "Kenerate", "reason": "low_confidence"}
+{"timestamp": "2026-10-11T10:48:21.062216+00:00", "event": "candidate_rejected", "name": "Rutter", "reason": "low_confidence"}
+{"timestamp": "2026-10-11T10:48:21.062277+00:00", "event": "candidate_rejected", "name": "Iimos", "reason": "duplicate"}
+{"timestamp": "2026-10-11T10:48:21.062341+00:00", "event": "candidate_rejected", "name": "Findwinningfunnels", "reason": "generic_fallback_description"}
+{"timestamp": "2026-10-11T10:48:21.062400+00:00", "event": "candidate_rejected", "name": "Memdebug", "reason": "duplicate"}
+{"timestamp": "2026-10-11T10:48:21.062482+00:00", "event": "candidate_rejected", "name": "Lacuna", "reason": "article_not_product"}
+{"timestamp": "2026-10-11T10:48:21.062542+00:00", "event": "candidate_rejected", "name": "Plannotator Inbox", "reason": "low_confidence"}
+{"timestamp": "2026-10-11T10:48:21.062605+00:00", "event": "candidate_rejected", "name": "Marginal Ia", "reason": "generic_fallback_description"}
+{"timestamp": "2026-10-11T10:48:21.062667+00:00", "event": "candidate_rejected", "name": "TaskHandoff", "reason": "duplicate"}
+{"timestamp": "2026-10-11T10:48:21.062724+00:00", "event": "candidate_rejected", "name": "Higherlevel", "reason": "low_confidence"}
+{"timestamp": "2026-10-11T10:48:21.062795+00:00", "event": "candidate_rejected", "name": "Cadent", "reason": "low_confidence"}
+{"timestamp": "2026-10-11T10:48:21.062879+00:00", "event": "candidate_rejected", "name": "Liquid Inference", "reason": "low_confidence"}
+{"timestamp": "2026-10-11T10:48:21.062941+00:00", "event": "candidate_rejected", "name": "CircleIt", "reason": "duplicate"}
+{"timestamp": "2026-10-11T10:48:21.068518+00:00", "event": "tool_staged_for_review", "slug": "frontierroles", "category": "research-knowledge", "source": "Hacker News — Show HN AI"}

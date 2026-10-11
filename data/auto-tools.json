@@ -3601,5 +3601,29 @@
     "sourceName": "Hacker News — Show HN AI",
     "sourceUrl": "https://news.ycombinator.com/item?id=50019488",
     "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "frontierroles",
+    "name": "Frontierroles",
+    "category": "research-knowledge",
+    "tagline": "An MCP server for frontierroles.com, a board of about 3,500 AI engineering roles pulled nightly from employers' own applicant tracking systems, with tools to search roles. No accou",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://frontierroles.com/mcp",
+    "description": "An MCP server for frontierroles.com, a board of about 3,500 AI engineering roles pulled nightly from employers' own applicant tracking systems, with tools to search roles. No account or API key needed: https://mcp.frontierroles.com/mcp.",
+    "tags": [
+      "Research Knowledge"
+    ],
+    "features": [
+      "Find and synthesize useful information",
+      "Explore questions through natural language",
+      "Organize research into clear outputs",
+      "Move from sources to understanding"
+    ],
+    "discoveredAt": "2026-10-11",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50032583",
+    "reviewStatus": "auto-discovered"
   }
 ]
