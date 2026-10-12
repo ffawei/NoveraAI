@@ -1,15 +1,15 @@
 {
   "1dial": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-27",
-    "nextReviewAt": "2026-10-11",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-12",
+    "nextReviewAt": "2026-10-26",
     "reason": "official_pages_lack_explicit_ai_evidence",
     "state": "deferred"
   },
   "academa": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-27",
-    "nextReviewAt": "2026-10-11",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-12",
+    "nextReviewAt": "2026-10-26",
     "reason": "fewer_than_three_product_specific_capabilities",
     "state": "deferred"
   },
@@ -35,16 +35,16 @@
     "state": "deferred"
   },
   "aidcrew-v0-3": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-27",
-    "nextReviewAt": "2026-10-11",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-12",
+    "nextReviewAt": "2026-10-26",
     "reason": "official_pages_lack_explicit_ai_evidence",
     "state": "deferred"
   },
   "aiimageto3d": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-27",
-    "nextReviewAt": "2026-10-11",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-12",
+    "nextReviewAt": "2026-10-26",
     "reason": "fewer_than_three_product_specific_capabilities",
     "state": "deferred"
   },
@@ -56,9 +56,9 @@
     "state": "deferred"
   },
   "autoshade": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-27",
-    "nextReviewAt": "2026-10-11",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-12",
+    "nextReviewAt": "2026-10-26",
     "reason": "fewer_than_three_product_specific_capabilities",
     "state": "deferred"
   },
@@ -98,9 +98,9 @@
     "state": "deferred"
   },
   "calprep": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-27",
-    "nextReviewAt": "2026-10-11",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-12",
+    "nextReviewAt": "2026-10-26",
     "reason": "insufficient_official_text",
     "state": "deferred"
   },
@@ -112,16 +112,16 @@
     "state": "deferred"
   },
   "castforge": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-27",
-    "nextReviewAt": "2026-10-11",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-12",
+    "nextReviewAt": "2026-10-26",
     "reason": "fewer_than_three_product_specific_capabilities",
     "state": "deferred"
   },
   "choosecompute": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-27",
-    "nextReviewAt": "2026-10-11",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-12",
+    "nextReviewAt": "2026-10-26",
     "reason": "official_pages_lack_product_evidence",
     "state": "deferred"
   },
@@ -175,9 +175,9 @@
     "state": "deferred"
   },
   "edify": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-27",
-    "nextReviewAt": "2026-10-11",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-12",
+    "nextReviewAt": "2026-10-26",
     "reason": "official_pages_lack_explicit_ai_evidence",
     "state": "deferred"
   },
@@ -196,10 +196,10 @@
     "state": "deferred"
   },
   "finbridge": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-27",
-    "nextReviewAt": "2026-10-11",
-    "reason": "fewer_than_three_product_specific_capabilities",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-12",
+    "nextReviewAt": "2026-10-26",
+    "reason": "official_pages_lack_explicit_ai_evidence",
     "state": "deferred"
   },
   "finderysearch": {
@@ -252,9 +252,9 @@
     "state": "deferred"
   },
   "itsuki": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-27",
-    "nextReviewAt": "2026-10-11",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-12",
+    "nextReviewAt": "2026-10-26",
     "reason": "fewer_than_three_product_specific_capabilities",
     "state": "deferred"
   },
@@ -336,10 +336,10 @@
     "state": "deferred"
   },
   "parlel": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-27",
-    "nextReviewAt": "2026-10-11",
-    "reason": "insufficient_official_text",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-12",
+    "nextReviewAt": "2026-10-26",
+    "reason": "official_pages_lack_explicit_ai_evidence",
     "state": "deferred"
   },
   "pewresearch": {
