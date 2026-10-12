@@ -3625,5 +3625,81 @@
     "sourceName": "Hacker News — Show HN AI",
     "sourceUrl": "https://news.ycombinator.com/item?id=50032583",
     "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "jruva",
+    "name": "Jruva",
+    "category": "text-writing",
+    "tagline": "AI workspace for chat, documents and images",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://www.jruva.in",
+    "description": "Prefer writing your own short explanation of why you built Jruva and how its multi-provider fallback works.",
+    "tags": [
+      "Writing",
+      "Text Writing"
+    ],
+    "features": [
+      "Create and refine written content",
+      "Summarize and restructure text",
+      "Adapt voice for different audiences",
+      "Move from prompt to draft quickly"
+    ],
+    "discoveredAt": "2026-10-12",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50052566",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "atlas-runa",
+    "name": "Atlas Runa",
+    "category": "education-learning",
+    "tagline": "E2E AI-enhanced language learning",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://atlasruna.com",
+    "description": "Atlas Runa is a newly discovered AI product for education learning. E2E AI-enhanced language learning.",
+    "tags": [
+      "Education",
+      "Education Learning"
+    ],
+    "features": [
+      "Create guided learning experiences",
+      "Personalize practice and explanations",
+      "Support educators and learners",
+      "Turn material into study activities"
+    ],
+    "discoveredAt": "2026-10-12",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50044874",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "burning-bridges-ai",
+    "name": "Burning Bridges AI",
+    "category": "video-generation",
+    "tagline": "Put yourself into a viral music-video clip",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://burningbridgesai.app",
+    "description": "Burning Bridges AI is a newly discovered AI product for video generation. Put yourself into a viral music-video clip.",
+    "tags": [
+      "Video",
+      "Music",
+      "Video Generation"
+    ],
+    "features": [
+      "Create video concepts with AI assistance",
+      "Speed up editing and production",
+      "Repurpose content for new formats",
+      "Build shareable visual stories"
+    ],
+    "discoveredAt": "2026-10-12",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50043726",
+    "reviewStatus": "auto-discovered"
   }
 ]

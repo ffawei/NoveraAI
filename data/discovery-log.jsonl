@@ -1356,3 +1356,32 @@
 {"timestamp": "2026-10-11T10:48:21.062879+00:00", "event": "candidate_rejected", "name": "Liquid Inference", "reason": "low_confidence"}
 {"timestamp": "2026-10-11T10:48:21.062941+00:00", "event": "candidate_rejected", "name": "CircleIt", "reason": "duplicate"}
 {"timestamp": "2026-10-11T10:48:21.068518+00:00", "event": "tool_staged_for_review", "slug": "frontierroles", "category": "research-knowledge", "source": "Hacker News — Show HN AI"}
+{"timestamp": "2026-10-12T11:56:48.021312+00:00", "event": "source_ok", "source": "Hacker News — Show HN AI", "candidates": 28}
+{"timestamp": "2026-10-12T11:56:48.022621+00:00", "event": "candidate_rejected", "name": "Organ", "reason": "low_confidence"}
+{"timestamp": "2026-10-12T11:56:48.022716+00:00", "event": "candidate_rejected", "name": "Airlock", "reason": "low_confidence"}
+{"timestamp": "2026-10-12T11:56:48.022771+00:00", "event": "candidate_rejected", "name": "Github", "reason": "low_confidence"}
+{"timestamp": "2026-10-12T11:56:48.022818+00:00", "event": "candidate_rejected", "name": "DBJoy", "reason": "low_confidence"}
+{"timestamp": "2026-10-12T11:56:48.022893+00:00", "event": "candidate_rejected", "name": "Whatmodel", "reason": "low_confidence"}
+{"timestamp": "2026-10-12T11:56:48.022949+00:00", "event": "candidate_rejected", "name": "Noai", "reason": "low_confidence"}
+{"timestamp": "2026-10-12T11:56:48.023131+00:00", "event": "candidate_rejected", "name": "Github", "reason": "low_confidence"}
+{"timestamp": "2026-10-12T11:56:48.023182+00:00", "event": "candidate_rejected", "name": "Drune", "reason": "low_confidence"}
+{"timestamp": "2026-10-12T11:56:48.023230+00:00", "event": "candidate_rejected", "name": "Atticus", "reason": "duplicate"}
+{"timestamp": "2026-10-12T11:56:48.023272+00:00", "event": "candidate_rejected", "name": "Github", "reason": "low_confidence"}
+{"timestamp": "2026-10-12T11:56:48.023322+00:00", "event": "candidate_rejected", "name": "Seodata", "reason": "low_confidence"}
+{"timestamp": "2026-10-12T11:56:48.023365+00:00", "event": "candidate_rejected", "name": "Shpyrd", "reason": "low_confidence"}
+{"timestamp": "2026-10-12T11:56:48.023411+00:00", "event": "candidate_rejected", "name": "Mira, AI Walking Tours", "reason": "low_confidence"}
+{"timestamp": "2026-10-12T11:56:48.023461+00:00", "event": "candidate_rejected", "name": "Synonymizer", "reason": "low_confidence"}
+{"timestamp": "2026-10-12T11:56:48.023585+00:00", "event": "candidate_rejected", "name": "Guilds", "reason": "low_confidence"}
+{"timestamp": "2026-10-12T11:56:48.023628+00:00", "event": "candidate_rejected", "name": "Ai", "reason": "low_confidence"}
+{"timestamp": "2026-10-12T11:56:48.023668+00:00", "event": "candidate_rejected", "name": "Kolega", "reason": "low_confidence"}
+{"timestamp": "2026-10-12T11:56:48.023707+00:00", "event": "candidate_rejected", "name": "Whimkid", "reason": "low_confidence"}
+{"timestamp": "2026-10-12T11:56:48.023747+00:00", "event": "candidate_rejected", "name": "Github", "reason": "duplicate"}
+{"timestamp": "2026-10-12T11:56:48.023788+00:00", "event": "candidate_rejected", "name": "Suta", "reason": "low_confidence"}
+{"timestamp": "2026-10-12T11:56:48.023842+00:00", "event": "candidate_rejected", "name": "GSD Task Manager", "reason": "duplicate"}
+{"timestamp": "2026-10-12T11:56:48.023882+00:00", "event": "candidate_rejected", "name": "Github", "reason": "low_confidence"}
+{"timestamp": "2026-10-12T11:56:48.023926+00:00", "event": "candidate_rejected", "name": "Ascendaflow", "reason": "generic_fallback_description"}
+{"timestamp": "2026-10-12T11:56:48.023965+00:00", "event": "candidate_rejected", "name": "Github", "reason": "low_confidence"}
+{"timestamp": "2026-10-12T11:56:48.024019+00:00", "event": "candidate_rejected", "name": "Github", "reason": "duplicate"}
+{"timestamp": "2026-10-12T11:56:48.080059+00:00", "event": "tool_staged_for_review", "slug": "jruva", "category": "text-writing", "source": "Hacker News — Show HN AI"}
+{"timestamp": "2026-10-12T11:56:48.080101+00:00", "event": "tool_staged_for_review", "slug": "atlas-runa", "category": "education-learning", "source": "Hacker News — Show HN AI"}
+{"timestamp": "2026-10-12T11:56:48.080123+00:00", "event": "tool_staged_for_review", "slug": "burning-bridges-ai", "category": "video-generation", "source": "Hacker News — Show HN AI"}
