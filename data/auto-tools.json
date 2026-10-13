@@ -3701,5 +3701,31 @@
     "sourceName": "Hacker News — Show HN AI",
     "sourceUrl": "https://news.ycombinator.com/item?id=50043726",
     "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "freeaiwiper",
+    "name": "Freeaiwiper",
+    "category": "data-analytics",
+    "tagline": "FreeAiWiper processes your files and removes AI watermarks and metadata fully on your browser. at the moment we support various image, video and document types",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://freeaiwiper.com",
+    "description": "FreeAiWiper processes your files and removes AI watermarks and metadata fully on your browser. at the moment we support various image, video and document types.",
+    "tags": [
+      "Video",
+      "Images",
+      "Data"
+    ],
+    "features": [
+      "Ask natural-language questions of data",
+      "Find patterns and useful signals",
+      "Create clear charts and summaries",
+      "Share insights with a wider team"
+    ],
+    "discoveredAt": "2026-10-13",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50056263",
+    "reviewStatus": "auto-discovered"
   }
 ]

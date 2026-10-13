@@ -1385,3 +1385,32 @@
 {"timestamp": "2026-10-12T11:56:48.080059+00:00", "event": "tool_staged_for_review", "slug": "jruva", "category": "text-writing", "source": "Hacker News — Show HN AI"}
 {"timestamp": "2026-10-12T11:56:48.080101+00:00", "event": "tool_staged_for_review", "slug": "atlas-runa", "category": "education-learning", "source": "Hacker News — Show HN AI"}
 {"timestamp": "2026-10-12T11:56:48.080123+00:00", "event": "tool_staged_for_review", "slug": "burning-bridges-ai", "category": "video-generation", "source": "Hacker News — Show HN AI"}
+{"timestamp": "2026-10-13T11:45:56.726691+00:00", "event": "source_ok", "source": "Hacker News — Show HN AI", "candidates": 28}
+{"timestamp": "2026-10-13T11:45:56.729042+00:00", "event": "candidate_rejected", "name": "Github", "reason": "duplicate"}
+{"timestamp": "2026-10-13T11:45:56.729197+00:00", "event": "candidate_rejected", "name": "Bifrost", "reason": "low_confidence"}
+{"timestamp": "2026-10-13T11:45:56.729351+00:00", "event": "candidate_rejected", "name": "Proofsource", "reason": "low_confidence"}
+{"timestamp": "2026-10-13T11:45:56.729521+00:00", "event": "candidate_rejected", "name": "Github", "reason": "duplicate"}
+{"timestamp": "2026-10-13T11:45:56.729633+00:00", "event": "candidate_rejected", "name": "Askbaab", "reason": "low_confidence"}
+{"timestamp": "2026-10-13T11:45:56.729759+00:00", "event": "candidate_rejected", "name": "Vibecheck", "reason": "duplicate"}
+{"timestamp": "2026-10-13T11:45:56.729885+00:00", "event": "candidate_rejected", "name": "Wordless", "reason": "low_confidence"}
+{"timestamp": "2026-10-13T11:45:56.729989+00:00", "event": "candidate_rejected", "name": "Ramet", "reason": "low_confidence"}
+{"timestamp": "2026-10-13T11:45:56.730091+00:00", "event": "candidate_rejected", "name": "Hwrebench", "reason": "low_confidence"}
+{"timestamp": "2026-10-13T11:45:56.730195+00:00", "event": "candidate_rejected", "name": "AI Prompt Lighting Controls", "reason": "low_confidence"}
+{"timestamp": "2026-10-13T11:45:56.730336+00:00", "event": "candidate_rejected", "name": "Enso Method", "reason": "low_confidence"}
+{"timestamp": "2026-10-13T11:45:56.730551+00:00", "event": "candidate_rejected", "name": "Workatailab", "reason": "generic_fallback_description"}
+{"timestamp": "2026-10-13T11:45:56.730664+00:00", "event": "candidate_rejected", "name": "IHMT", "reason": "low_confidence"}
+{"timestamp": "2026-10-13T11:45:56.730773+00:00", "event": "candidate_rejected", "name": "AI Slop Detector", "reason": "duplicate"}
+{"timestamp": "2026-10-13T11:45:56.730879+00:00", "event": "candidate_rejected", "name": "Reflex", "reason": "low_confidence"}
+{"timestamp": "2026-10-13T11:45:56.730988+00:00", "event": "candidate_rejected", "name": "Nyrion", "reason": "generic_fallback_description"}
+{"timestamp": "2026-10-13T11:45:56.731118+00:00", "event": "candidate_rejected", "name": "Precisionnumerics", "reason": "low_confidence"}
+{"timestamp": "2026-10-13T11:45:56.731220+00:00", "event": "candidate_rejected", "name": "Beeuni", "reason": "low_confidence"}
+{"timestamp": "2026-10-13T11:45:56.731360+00:00", "event": "candidate_rejected", "name": "Baa", "reason": "low_confidence"}
+{"timestamp": "2026-10-13T11:45:56.731469+00:00", "event": "candidate_rejected", "name": "Gravitypersists", "reason": "low_confidence"}
+{"timestamp": "2026-10-13T11:45:56.731573+00:00", "event": "candidate_rejected", "name": "Vigil", "reason": "duplicate"}
+{"timestamp": "2026-10-13T11:45:56.731674+00:00", "event": "candidate_rejected", "name": "Github", "reason": "low_confidence"}
+{"timestamp": "2026-10-13T11:45:56.731776+00:00", "event": "candidate_rejected", "name": "Mastershot", "reason": "low_confidence"}
+{"timestamp": "2026-10-13T11:45:56.731949+00:00", "event": "candidate_rejected", "name": "Ctxvitals", "reason": "low_confidence"}
+{"timestamp": "2026-10-13T11:45:56.732052+00:00", "event": "candidate_rejected", "name": "Organ", "reason": "low_confidence"}
+{"timestamp": "2026-10-13T11:45:56.732183+00:00", "event": "candidate_rejected", "name": "Airlock", "reason": "low_confidence"}
+{"timestamp": "2026-10-13T11:45:56.732308+00:00", "event": "candidate_rejected", "name": "Github", "reason": "low_confidence"}
+{"timestamp": "2026-10-13T11:45:56.735826+00:00", "event": "tool_staged_for_review", "slug": "freeaiwiper", "category": "data-analytics", "source": "Hacker News — Show HN AI"}
