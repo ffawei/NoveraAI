@@ -77,9 +77,9 @@
     "state": "deferred"
   },
   "bitroad": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-28",
-    "nextReviewAt": "2026-10-12",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-14",
+    "nextReviewAt": "2026-10-28",
     "reason": "fewer_than_three_product_specific_capabilities",
     "state": "deferred"
   },
@@ -91,9 +91,9 @@
     "state": "deferred"
   },
   "blog": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-28",
-    "nextReviewAt": "2026-10-12",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-14",
+    "nextReviewAt": "2026-10-28",
     "reason": "ambiguous_category",
     "state": "deferred"
   },
@@ -224,9 +224,9 @@
     "state": "deferred"
   },
   "geoprompttracker": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-28",
-    "nextReviewAt": "2026-10-12",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-14",
+    "nextReviewAt": "2026-10-28",
     "reason": "official_pages_lack_product_evidence",
     "state": "deferred"
   },
@@ -238,9 +238,9 @@
     "state": "deferred"
   },
   "imageaicraft": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-28",
-    "nextReviewAt": "2026-10-12",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-14",
+    "nextReviewAt": "2026-10-28",
     "reason": "fewer_than_three_product_specific_capabilities",
     "state": "deferred"
   },
@@ -266,9 +266,9 @@
     "state": "deferred"
   },
   "kuvu": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-28",
-    "nextReviewAt": "2026-10-12",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-14",
+    "nextReviewAt": "2026-10-28",
     "reason": "official_pages_lack_product_evidence",
     "state": "deferred"
   },
@@ -280,9 +280,9 @@
     "state": "deferred"
   },
   "legion": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-28",
-    "nextReviewAt": "2026-10-12",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-14",
+    "nextReviewAt": "2026-10-28",
     "reason": "fewer_than_three_product_specific_capabilities",
     "state": "deferred"
   },
@@ -322,9 +322,9 @@
     "state": "deferred"
   },
   "papiers": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-28",
-    "nextReviewAt": "2026-10-12",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-14",
+    "nextReviewAt": "2026-10-28",
     "reason": "insufficient_official_text",
     "state": "deferred"
   },
@@ -420,9 +420,9 @@
     "state": "deferred"
   },
   "sharpniq": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-28",
-    "nextReviewAt": "2026-10-12",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-14",
+    "nextReviewAt": "2026-10-28",
     "reason": "official_pages_lack_explicit_ai_evidence",
     "state": "deferred"
   },
@@ -434,9 +434,9 @@
     "state": "deferred"
   },
   "socratix": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-28",
-    "nextReviewAt": "2026-10-12",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-14",
+    "nextReviewAt": "2026-10-28",
     "reason": "official_pages_lack_explicit_ai_evidence",
     "state": "deferred"
   },
@@ -476,9 +476,9 @@
     "state": "deferred"
   },
   "tattoopreview-ai": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-28",
-    "nextReviewAt": "2026-10-12",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-14",
+    "nextReviewAt": "2026-10-28",
     "reason": "official_pages_lack_explicit_ai_evidence",
     "state": "deferred"
   },
@@ -518,9 +518,9 @@
     "state": "deferred"
   },
   "usero": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-28",
-    "nextReviewAt": "2026-10-12",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-14",
+    "nextReviewAt": "2026-10-28",
     "reason": "fewer_than_three_product_specific_capabilities",
     "state": "deferred"
   },
@@ -532,9 +532,9 @@
     "state": "deferred"
   },
   "viaduct": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-28",
-    "nextReviewAt": "2026-10-12",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-14",
+    "nextReviewAt": "2026-10-28",
     "reason": "fewer_than_three_product_specific_capabilities",
     "state": "deferred"
   },
