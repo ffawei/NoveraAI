@@ -1414,3 +1414,31 @@
 {"timestamp": "2026-10-13T11:45:56.732183+00:00", "event": "candidate_rejected", "name": "Airlock", "reason": "low_confidence"}
 {"timestamp": "2026-10-13T11:45:56.732308+00:00", "event": "candidate_rejected", "name": "Github", "reason": "low_confidence"}
 {"timestamp": "2026-10-13T11:45:56.735826+00:00", "event": "tool_staged_for_review", "slug": "freeaiwiper", "category": "data-analytics", "source": "Hacker News — Show HN AI"}
+{"timestamp": "2026-10-14T09:29:50.995733+00:00", "event": "source_ok", "source": "Hacker News — Show HN AI", "candidates": 27}
+{"timestamp": "2026-10-14T09:29:50.998010+00:00", "event": "candidate_rejected", "name": "Orchardagentic", "reason": "low_confidence"}
+{"timestamp": "2026-10-14T09:29:50.998152+00:00", "event": "candidate_rejected", "name": "Chiplab", "reason": "low_confidence"}
+{"timestamp": "2026-10-14T09:29:50.998265+00:00", "event": "candidate_rejected", "name": "Agent Identity", "reason": "low_confidence"}
+{"timestamp": "2026-10-14T09:29:50.998370+00:00", "event": "candidate_rejected", "name": "Github", "reason": "low_confidence"}
+{"timestamp": "2026-10-14T09:29:50.998474+00:00", "event": "candidate_rejected", "name": "Heyfabee", "reason": "low_confidence"}
+{"timestamp": "2026-10-14T09:29:50.998578+00:00", "event": "candidate_rejected", "name": "AgentGate", "reason": "low_confidence"}
+{"timestamp": "2026-10-14T09:29:50.998679+00:00", "event": "candidate_rejected", "name": "Jeffyclassify", "reason": "low_confidence"}
+{"timestamp": "2026-10-14T09:29:50.999081+00:00", "event": "candidate_rejected", "name": "Blumify", "reason": "generic_fallback_description"}
+{"timestamp": "2026-10-14T09:29:50.999197+00:00", "event": "candidate_rejected", "name": "Github", "reason": "duplicate"}
+{"timestamp": "2026-10-14T09:29:50.999304+00:00", "event": "candidate_rejected", "name": "Jevcrawl", "reason": "low_confidence"}
+{"timestamp": "2026-10-14T09:29:50.999420+00:00", "event": "candidate_rejected", "name": "Pulseos", "reason": "low_confidence"}
+{"timestamp": "2026-10-14T09:29:50.999534+00:00", "event": "candidate_rejected", "name": "Sugabots", "reason": "low_confidence"}
+{"timestamp": "2026-10-14T09:29:50.999710+00:00", "event": "candidate_rejected", "name": "CoreXTrader", "reason": "low_confidence"}
+{"timestamp": "2026-10-14T09:29:50.999841+00:00", "event": "candidate_rejected", "name": "Github", "reason": "low_confidence"}
+{"timestamp": "2026-10-14T09:29:50.999994+00:00", "event": "candidate_rejected", "name": "Github", "reason": "low_confidence"}
+{"timestamp": "2026-10-14T09:29:51.000098+00:00", "event": "candidate_rejected", "name": "Deslop", "reason": "low_confidence"}
+{"timestamp": "2026-10-14T09:29:51.000200+00:00", "event": "candidate_rejected", "name": "Agor, multiplayer AI", "reason": "low_confidence"}
+{"timestamp": "2026-10-14T09:29:51.000300+00:00", "event": "candidate_rejected", "name": "Podway", "reason": "low_confidence"}
+{"timestamp": "2026-10-14T09:29:51.000400+00:00", "event": "candidate_rejected", "name": "Recall", "reason": "low_confidence"}
+{"timestamp": "2026-10-14T09:29:51.000499+00:00", "event": "candidate_rejected", "name": "GPT-Load", "reason": "low_confidence"}
+{"timestamp": "2026-10-14T09:29:51.000674+00:00", "event": "candidate_rejected", "name": "Kuber", "reason": "low_confidence"}
+{"timestamp": "2026-10-14T09:29:51.000790+00:00", "event": "candidate_rejected", "name": "MemorySync", "reason": "low_confidence"}
+{"timestamp": "2026-10-14T09:29:51.000994+00:00", "event": "candidate_rejected", "name": "Solveaicrimes", "reason": "low_confidence"}
+{"timestamp": "2026-10-14T09:29:51.005783+00:00", "event": "tool_staged_for_review", "slug": "ai-hub", "category": "education-learning", "source": "Hacker News — Show HN AI"}
+{"timestamp": "2026-10-14T09:29:51.005838+00:00", "event": "tool_staged_for_review", "slug": "parsimony", "category": "coding-development", "source": "Hacker News — Show HN AI"}
+{"timestamp": "2026-10-14T09:29:51.005881+00:00", "event": "tool_staged_for_review", "slug": "mana", "category": "productivity-automation", "source": "Hacker News — Show HN AI"}
+{"timestamp": "2026-10-14T09:29:51.005943+00:00", "event": "tool_staged_for_review", "slug": "autograph", "category": "text-writing", "source": "Hacker News — Show HN AI"}

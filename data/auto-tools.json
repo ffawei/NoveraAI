@@ -3727,5 +3727,107 @@
     "sourceName": "Hacker News — Show HN AI",
     "sourceUrl": "https://news.ycombinator.com/item?id=50056263",
     "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "ai-hub",
+    "name": "AI Hub",
+    "category": "education-learning",
+    "tagline": "Open Access Lesson Plans for Teaching Students about AI",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://aihub.remakelearning.org",
+    "description": "The AI Hub provides 91 curated lesson plans teaching middle and high school students about AI - how it works, what the risks and benefits of AI are, and how it is impacting society. These activities come from six different nonprofit organizations that are building educational resources for classrooms. Our nonprofit worked with 16 different teachers to comb through more than 200 different resources, with the teachers.",
+    "tags": [
+      "Education",
+      "Education Learning"
+    ],
+    "features": [
+      "Create guided learning experiences",
+      "Personalize practice and explanations",
+      "Support educators and learners",
+      "Turn material into study activities"
+    ],
+    "discoveredAt": "2026-10-14",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50081297",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "parsimony",
+    "name": "Parsimony",
+    "category": "coding-development",
+    "tagline": "an open-source benchmark for how much code AI models add",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://parsimony.lasu.dev",
+    "description": "Existing benchmarks measure solve rate and token output/cost, but don't punish excess code, which makes a codebase harder to work with in the long term. I wanted to measure this since it matters most for long-term projects. Method: it takes the patches that benchmarks already publish (DeepSWE, SWE-bench Verified, SWE-bench Live) and counts \"coding units\": syntax elements like statements, calls, names and literals. I.",
+    "tags": [
+      "Developer",
+      "Coding Development"
+    ],
+    "features": [
+      "Accelerate common development tasks",
+      "Work with contextual code assistance",
+      "Explain and improve technical work",
+      "Move from idea to working software"
+    ],
+    "discoveredAt": "2026-10-14",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50077619",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "mana",
+    "name": "Mana",
+    "category": "productivity-automation",
+    "tagline": "family organizer with an AI assistant",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://ourmana.app",
+    "description": "Mana is a newly discovered AI product for productivity automation. family organizer with an AI assistant.",
+    "tags": [
+      "Automation",
+      "Productivity",
+      "Productivity Automation"
+    ],
+    "features": [
+      "Reduce repetitive manual work",
+      "Connect tasks into clear workflows",
+      "Organize information and priorities",
+      "Save time across everyday operations"
+    ],
+    "discoveredAt": "2026-10-14",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50071636",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "autograph",
+    "name": "Autograph",
+    "category": "text-writing",
+    "tagline": "a music notation editor you can drive with Claude over MCP",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://autographmusic.com",
+    "description": "Autograph is a newly discovered AI product for text writing. a music notation editor you can drive with Claude over MCP.",
+    "tags": [
+      "Music",
+      "Writing",
+      "Text Writing"
+    ],
+    "features": [
+      "Create and refine written content",
+      "Summarize and restructure text",
+      "Adapt voice for different audiences",
+      "Move from prompt to draft quickly"
+    ],
+    "discoveredAt": "2026-10-14",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50070306",
+    "reviewStatus": "auto-discovered"
   }
 ]
