@@ -1442,3 +1442,33 @@
 {"timestamp": "2026-10-14T09:29:51.005838+00:00", "event": "tool_staged_for_review", "slug": "parsimony", "category": "coding-development", "source": "Hacker News — Show HN AI"}
 {"timestamp": "2026-10-14T09:29:51.005881+00:00", "event": "tool_staged_for_review", "slug": "mana", "category": "productivity-automation", "source": "Hacker News — Show HN AI"}
 {"timestamp": "2026-10-14T09:29:51.005943+00:00", "event": "tool_staged_for_review", "slug": "autograph", "category": "text-writing", "source": "Hacker News — Show HN AI"}
+{"timestamp": "2026-10-15T09:07:58.024023+00:00", "event": "source_ok", "source": "Hacker News — Show HN AI", "candidates": 29}
+{"timestamp": "2026-10-15T09:07:58.026735+00:00", "event": "candidate_rejected", "name": "Thinkbeside", "reason": "low_confidence"}
+{"timestamp": "2026-10-15T09:07:58.026989+00:00", "event": "candidate_rejected", "name": "Wonkle", "reason": "low_confidence"}
+{"timestamp": "2026-10-15T09:07:58.027221+00:00", "event": "candidate_rejected", "name": "RevisePulse", "reason": "low_confidence"}
+{"timestamp": "2026-10-15T09:07:58.027366+00:00", "event": "candidate_rejected", "name": "MoneySwitch", "reason": "low_confidence"}
+{"timestamp": "2026-10-15T09:07:58.027546+00:00", "event": "candidate_rejected", "name": "Github", "reason": "duplicate"}
+{"timestamp": "2026-10-15T09:07:58.027726+00:00", "event": "candidate_rejected", "name": "Stof", "reason": "low_confidence"}
+{"timestamp": "2026-10-15T09:07:58.027835+00:00", "event": "candidate_rejected", "name": "Stop Sequence", "reason": "low_confidence"}
+{"timestamp": "2026-10-15T09:07:58.027967+00:00", "event": "candidate_rejected", "name": "botsay", "reason": "low_confidence"}
+{"timestamp": "2026-10-15T09:07:58.028091+00:00", "event": "candidate_rejected", "name": "Github", "reason": "low_confidence"}
+{"timestamp": "2026-10-15T09:07:58.028253+00:00", "event": "candidate_rejected", "name": "Whenitships", "reason": "generic_fallback_description"}
+{"timestamp": "2026-10-15T09:07:58.028371+00:00", "event": "candidate_rejected", "name": "Fframes", "reason": "generic_fallback_description"}
+{"timestamp": "2026-10-15T09:07:58.028472+00:00", "event": "candidate_rejected", "name": "Github", "reason": "duplicate"}
+{"timestamp": "2026-10-15T09:07:58.028687+00:00", "event": "candidate_rejected", "name": "Veduta", "reason": "low_confidence"}
+{"timestamp": "2026-10-15T09:07:58.028812+00:00", "event": "candidate_rejected", "name": "Playground", "reason": "generic_fallback_description"}
+{"timestamp": "2026-10-15T09:07:58.028912+00:00", "event": "candidate_rejected", "name": "Evlat", "reason": "low_confidence"}
+{"timestamp": "2026-10-15T09:07:58.029019+00:00", "event": "candidate_rejected", "name": "Prereason", "reason": "low_confidence"}
+{"timestamp": "2026-10-15T09:07:58.029253+00:00", "event": "candidate_rejected", "name": "Aitrainerjobs", "reason": "low_confidence"}
+{"timestamp": "2026-10-15T09:07:58.029426+00:00", "event": "candidate_rejected", "name": "boostmyagents", "reason": "low_confidence"}
+{"timestamp": "2026-10-15T09:07:58.029533+00:00", "event": "candidate_rejected", "name": "Kryzz AI", "reason": "low_confidence"}
+{"timestamp": "2026-10-15T09:07:58.029651+00:00", "event": "candidate_rejected", "name": "Orchardagentic", "reason": "low_confidence"}
+{"timestamp": "2026-10-15T09:07:58.029750+00:00", "event": "candidate_rejected", "name": "Chiplab", "reason": "low_confidence"}
+{"timestamp": "2026-10-15T09:07:58.029868+00:00", "event": "candidate_rejected", "name": "Agent Identity", "reason": "low_confidence"}
+{"timestamp": "2026-10-15T09:07:58.033655+00:00", "event": "tool_staged_for_review", "slug": "hotel-lobby-ai", "category": "video-generation", "source": "Hacker News — Show HN AI"}
+{"timestamp": "2026-10-15T09:07:58.033713+00:00", "event": "tool_staged_for_review", "slug": "mediaguesser", "category": "image-generation", "source": "Hacker News — Show HN AI"}
+{"timestamp": "2026-10-15T09:07:58.033755+00:00", "event": "tool_staged_for_review", "slug": "real-design-benchmark", "category": "design-ux", "source": "Hacker News — Show HN AI"}
+{"timestamp": "2026-10-15T09:07:58.033792+00:00", "event": "tool_staged_for_review", "slug": "checkobot", "category": "image-generation", "source": "Hacker News — Show HN AI"}
+{"timestamp": "2026-10-15T09:07:58.033849+00:00", "event": "tool_staged_for_review", "slug": "ai-interview-index", "category": "coding-development", "source": "Hacker News — Show HN AI"}
+{"timestamp": "2026-10-15T09:07:58.033923+00:00", "event": "tool_staged_for_review", "slug": "usemerlin", "category": "coding-development", "source": "Hacker News — Show HN AI"}
+{"timestamp": "2026-10-15T09:07:58.033973+00:00", "event": "tool_staged_for_review", "slug": "busymail", "category": "productivity-automation", "source": "Hacker News — Show HN AI"}

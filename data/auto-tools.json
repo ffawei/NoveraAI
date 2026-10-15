@@ -3829,5 +3829,181 @@
     "sourceName": "Hacker News — Show HN AI",
     "sourceUrl": "https://news.ycombinator.com/item?id=50070306",
     "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "hotel-lobby-ai",
+    "name": "Hotel Lobby AI",
+    "category": "video-generation",
+    "tagline": "9:16 vertical COLORS show rap videos with Wan 3.0",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://hotellobbyvideoai.app",
+    "description": "Hotel Lobby AI is a newly discovered AI product for video generation. 9:16 vertical COLORS show rap videos with Wan 3.0.",
+    "tags": [
+      "Video",
+      "Video Generation"
+    ],
+    "features": [
+      "Create video concepts with AI assistance",
+      "Speed up editing and production",
+      "Repurpose content for new formats",
+      "Build shareable visual stories"
+    ],
+    "discoveredAt": "2026-10-15",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50100584",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "mediaguesser",
+    "name": "Mediaguesser",
+    "category": "image-generation",
+    "tagline": "Every day, I let all frontier AI models play five rounds of an image location guess game. Try it out how you perform against the AI. I recently released my browser image location g",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://mediaguesser.com/human-vs-ai",
+    "description": "Every day, I let all frontier AI models play five rounds of an image location guess game. Try it out how you perform against the AI. I recently released my browser image location game, a hobby project where you’re get random images from sources like Wikimedia Commons and have to guess the image’s location. There are an incredible number of images with rich metadata on Wikimedia Commons, most of them depict trivial bu",
+    "tags": [
+      "Images",
+      "Data",
+      "Image Generation"
+    ],
+    "features": [
+      "Generate visual concepts from prompts",
+      "Explore style and composition options",
+      "Create reusable creative assets",
+      "Iterate on visual directions quickly"
+    ],
+    "discoveredAt": "2026-10-15",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50099986",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "real-design-benchmark",
+    "name": "Real Design Benchmark",
+    "category": "design-ux",
+    "tagline": "can you tell AI designs from real products?",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://www.realdesignbenchmark.com",
+    "description": "Real Design Benchmark is a newly discovered AI product for design ux. can you tell AI designs from real products?.",
+    "tags": [
+      "Design",
+      "Design UX"
+    ],
+    "features": [
+      "Generate and refine interface ideas",
+      "Explore multiple design directions",
+      "Create editable product concepts",
+      "Shorten early design workflows"
+    ],
+    "discoveredAt": "2026-10-15",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50099581",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "checkobot",
+    "name": "Checkobot",
+    "category": "image-generation",
+    "tagline": "Detect Deepfakes and AI Images",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://checkobot.ai",
+    "description": "Checkobot is a newly discovered AI product for image generation. Detect Deepfakes and AI Images.",
+    "tags": [
+      "Images",
+      "Image Generation"
+    ],
+    "features": [
+      "Generate visual concepts from prompts",
+      "Explore style and composition options",
+      "Create reusable creative assets",
+      "Iterate on visual directions quickly"
+    ],
+    "discoveredAt": "2026-10-15",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50094049",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "ai-interview-index",
+    "name": "AI Interview Index",
+    "category": "coding-development",
+    "tagline": "which companies allow AI in coding interviews",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://aiinterviewindex.com",
+    "description": "AI Interview Index is a newly discovered AI product for coding development. which companies allow AI in coding interviews.",
+    "tags": [
+      "Coding Development"
+    ],
+    "features": [
+      "Accelerate common development tasks",
+      "Work with contextual code assistance",
+      "Explain and improve technical work",
+      "Move from idea to working software"
+    ],
+    "discoveredAt": "2026-10-15",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50093749",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "usemerlin",
+    "name": "Usemerlin",
+    "category": "coding-development",
+    "tagline": "Hi HN, I built Merlin to let you use your own Claude Code and Codex subscription from Slack, Linear, and GitHub. There is a desktop app for macOS and Windows, and a CLI daemon for",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://usemerlin.ai",
+    "description": "Usemerlin is a newly discovered AI product for coding development. Hi HN, I built Merlin to let you use your own Claude Code and Codex subscription from Slack, Linear, and GitHub. There is a desktop app for macOS and Windows, and a CLI daemon for Linux. When someone mentions Merlin in a.",
+    "tags": [
+      "Developer",
+      "Coding Development"
+    ],
+    "features": [
+      "Accelerate common development tasks",
+      "Work with contextual code assistance",
+      "Explain and improve technical work",
+      "Move from idea to working software"
+    ],
+    "discoveredAt": "2026-10-15",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50088088",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "busymail",
+    "name": "Busymail",
+    "category": "productivity-automation",
+    "tagline": "an IMAP email client with an MCP server for AI agents",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://busymail.app",
+    "description": "Busymail is a newly discovered AI product for productivity automation. an IMAP email client with an MCP server for AI agents.",
+    "tags": [
+      "Automation",
+      "Productivity",
+      "Productivity Automation"
+    ],
+    "features": [
+      "Reduce repetitive manual work",
+      "Connect tasks into clear workflows",
+      "Organize information and priorities",
+      "Save time across everyday operations"
+    ],
+    "discoveredAt": "2026-10-15",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50086476",
+    "reviewStatus": "auto-discovered"
   }
 ]
