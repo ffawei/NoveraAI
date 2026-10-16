@@ -4005,5 +4005,178 @@
     "sourceName": "Hacker News — Show HN AI",
     "sourceUrl": "https://news.ycombinator.com/item?id=50086476",
     "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "wp-replai",
+    "name": "WP Replai",
+    "category": "customer-support",
+    "tagline": "AI chatbot built right into WordPress",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://wpreplai.com",
+    "description": "WP Replai is a newly discovered AI product for customer support. AI chatbot built right into WordPress.",
+    "tags": [
+      "Customer support",
+      "Customer Support"
+    ],
+    "features": [
+      "Answer common customer questions",
+      "Assist human support workflows",
+      "Organize and route conversations",
+      "Improve service response time"
+    ],
+    "discoveredAt": "2026-10-16",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50115538",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "citeproof",
+    "name": "CiteProof",
+    "category": "research-knowledge",
+    "tagline": "Catch fake AI legal citations",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://getciteproof.com",
+    "description": "CiteProof is a newly discovered AI product for research knowledge. Catch fake AI legal citations.",
+    "tags": [
+      "Research",
+      "Research Knowledge"
+    ],
+    "features": [
+      "Find and synthesize useful information",
+      "Explore questions through natural language",
+      "Organize research into clear outputs",
+      "Move from sources to understanding"
+    ],
+    "discoveredAt": "2026-10-16",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50114653",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "guess-the-llm",
+    "name": "Guess the LLM",
+    "category": "research-knowledge",
+    "tagline": "read an answer and guess which model wrote it",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://guessthellm.com",
+    "description": "Guess the LLM is a newly discovered AI product for research knowledge. read an answer and guess which model wrote it.",
+    "tags": [
+      "Research",
+      "Research Knowledge"
+    ],
+    "features": [
+      "Find and synthesize useful information",
+      "Explore questions through natural language",
+      "Organize research into clear outputs",
+      "Move from sources to understanding"
+    ],
+    "discoveredAt": "2026-10-16",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50110907",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "ghx",
+    "name": "Ghx",
+    "category": "coding-development",
+    "tagline": "A caching proxy for GitHub CLI, built for AI agents",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://brunoborges.github.io/ghx",
+    "description": "Ghx is a newly discovered AI product for coding development. A caching proxy for GitHub CLI, built for AI agents.",
+    "tags": [
+      "Coding Development"
+    ],
+    "features": [
+      "Accelerate common development tasks",
+      "Work with contextual code assistance",
+      "Explain and improve technical work",
+      "Move from idea to working software"
+    ],
+    "discoveredAt": "2026-10-16",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50105322",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "stylebot-4",
+    "name": "Stylebot 4",
+    "category": "coding-development",
+    "tagline": "restyle any website, by hand or with your coding agent",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://stylebot.dev",
+    "description": "I started Stylebot in 2010 to change how websites look without writing CSS by hand. I have kept maintaining it since then. Now, with AI tools, I’ve finally been able to fix bugs and add features I never had time for. 4.0 has a new, modern editor that shows each element's actual styles, profiles, better sync, versioning and includes a CLI for coding agents. I am most excited about adding the CLI, which lets claude cod",
+    "tags": [
+      "Writing",
+      "Coding Development"
+    ],
+    "features": [
+      "Accelerate common development tasks",
+      "Work with contextual code assistance",
+      "Explain and improve technical work",
+      "Move from idea to working software"
+    ],
+    "discoveredAt": "2026-10-16",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50105251",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "mark",
+    "name": "Mark",
+    "category": "education-learning",
+    "tagline": "free, no-signup AI chat with quizzes, diagrams, and docs",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://saanora.com",
+    "description": "Mark is a newly discovered AI product for education learning. free, no-signup AI chat with quizzes, diagrams, and docs.",
+    "tags": [
+      "Education",
+      "Education Learning"
+    ],
+    "features": [
+      "Create guided learning experiences",
+      "Personalize practice and explanations",
+      "Support educators and learners",
+      "Turn material into study activities"
+    ],
+    "discoveredAt": "2026-10-16",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50104819",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "meet-cedric",
+    "name": "Meet Cedric",
+    "category": "productivity-automation",
+    "tagline": "We built Cedric so anyone within a team, technical or not, could automate repetitive work through conversation. It works in Slack, Discord, Telegram, or your browser, connects to t",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://meet-cedric.com",
+    "description": "We built Cedric so anyone within a team, technical or not, could automate repetitive work through conversation. It works in Slack, Discord, Telegram, or your browser, connects to thousands of tools. It shares a team memory with access controls, and joins meetings from which it can trigger actions. Looking forward to your feedback!.",
+    "tags": [
+      "Productivity Automation"
+    ],
+    "features": [
+      "Reduce repetitive manual work",
+      "Connect tasks into clear workflows",
+      "Organize information and priorities",
+      "Save time across everyday operations"
+    ],
+    "discoveredAt": "2026-10-16",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50103931",
+    "reviewStatus": "auto-discovered"
   }
 ]
