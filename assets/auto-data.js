@@ -1245,6 +1245,34 @@ window.NOVERA_AUTO_TOOLS = [
     "sourceName": "Hacker News — Show HN AI",
     "sourceUrl": "https://news.ycombinator.com/item?id=49803059",
     "reviewStatus": "editorially-corrected"
+  },
+  {
+    "slug": "forkbench",
+    "name": "Forkbench",
+    "category": "coding-development",
+    "tagline": "Support workflows built around AI coding tools.",
+    "pricing": "Freemium",
+    "rating": 0,
+    "featured": false,
+    "website": "https://forkbench.com/l/FAUiWl3f",
+    "description": "Forkbench is an AI development tool for support for AI coding workflows. Official product materials also document automated software testing and coding-agent coordination. Users can access the product through Web app, API, MCP, and CLI. Novera classified its pricing as Freemium from the provider’s published plan or licensing information. Capabilities, limits, and prices can change, so confirm current details on the official website.",
+    "tags": [
+      "AI coding",
+      "Software testing",
+      "Coding agents",
+      "Web app"
+    ],
+    "features": [
+      "Support workflows built around AI coding tools",
+      "Create or run checks for software quality",
+      "Coordinate or supervise AI coding agents"
+    ],
+    "discoveredAt": "2026-09-25",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=49828775",
+    "reviewStatus": "automatically-reviewed",
+    "reviewedAt": "2026-10-16",
+    "reviewMethod": "strict-deterministic-v1"
   }
 ];
 if (window.NOVERA_DATA) {

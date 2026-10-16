@@ -28,9 +28,9 @@
     "state": "deferred"
   },
   "ai-hack-watch": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-30",
-    "nextReviewAt": "2026-10-14",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-16",
+    "nextReviewAt": "2026-10-30",
     "reason": "official_pages_lack_product_evidence",
     "state": "deferred"
   },
@@ -63,9 +63,9 @@
     "state": "deferred"
   },
   "ax": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-30",
-    "nextReviewAt": "2026-10-14",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-16",
+    "nextReviewAt": "2026-10-30",
     "reason": "fewer_than_three_product_specific_capabilities",
     "state": "deferred"
   },
@@ -105,9 +105,9 @@
     "state": "deferred"
   },
   "canary-yc": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-30",
-    "nextReviewAt": "2026-10-14",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-16",
+    "nextReviewAt": "2026-10-30",
     "reason": "product_name_not_verified",
     "state": "deferred"
   },
@@ -126,9 +126,9 @@
     "state": "deferred"
   },
   "critic": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-30",
-    "nextReviewAt": "2026-10-14",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-16",
+    "nextReviewAt": "2026-10-30",
     "reason": "official_pages_lack_product_evidence",
     "state": "deferred"
   },
@@ -147,9 +147,9 @@
     "state": "deferred"
   },
   "delightful-cells": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-30",
-    "nextReviewAt": "2026-10-14",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-16",
+    "nextReviewAt": "2026-10-30",
     "reason": "official_pages_lack_explicit_ai_evidence",
     "state": "deferred"
   },
@@ -189,9 +189,9 @@
     "state": "deferred"
   },
   "filmstudio": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-30",
-    "nextReviewAt": "2026-10-14",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-16",
+    "nextReviewAt": "2026-10-30",
     "reason": "official_pages_lack_explicit_ai_evidence",
     "state": "deferred"
   },
@@ -210,11 +210,10 @@
     "state": "deferred"
   },
   "forkbench": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-30",
-    "nextReviewAt": "2026-10-14",
-    "reason": "fetch_or_parse_error:ValueError",
-    "state": "deferred"
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-16",
+    "reason": "strict_official_evidence_gate_passed",
+    "state": "approved"
   },
   "genjutsu-ai": {
     "attempts": 1,
@@ -357,9 +356,9 @@
     "state": "deferred"
   },
   "pixelsniff": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-30",
-    "nextReviewAt": "2026-10-14",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-16",
+    "nextReviewAt": "2026-10-30",
     "reason": "fewer_than_three_product_specific_capabilities",
     "state": "deferred"
   },
@@ -371,9 +370,9 @@
     "state": "deferred"
   },
   "proxima-forma": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-30",
-    "nextReviewAt": "2026-10-14",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-16",
+    "nextReviewAt": "2026-10-30",
     "reason": "fewer_than_three_product_specific_capabilities",
     "state": "deferred"
   },
@@ -399,9 +398,9 @@
     "state": "deferred"
   },
   "reteach": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-30",
-    "nextReviewAt": "2026-10-14",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-16",
+    "nextReviewAt": "2026-10-30",
     "reason": "insufficient_official_text",
     "state": "deferred"
   },
@@ -448,9 +447,9 @@
     "state": "deferred"
   },
   "stackreplay": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-30",
-    "nextReviewAt": "2026-10-14",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-16",
+    "nextReviewAt": "2026-10-30",
     "reason": "fewer_than_three_product_specific_capabilities",
     "state": "deferred"
   },
@@ -539,9 +538,9 @@
     "state": "deferred"
   },
   "vibe-coder-ladder-round-2": {
-    "attempts": 1,
-    "lastReviewedAt": "2026-09-30",
-    "nextReviewAt": "2026-10-14",
+    "attempts": 2,
+    "lastReviewedAt": "2026-10-16",
+    "nextReviewAt": "2026-10-30",
     "reason": "official_pages_lack_product_evidence",
     "state": "deferred"
   },
