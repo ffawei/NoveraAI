@@ -4182,5 +4182,104 @@
     "sourceName": "Hacker News — Show HN AI",
     "sourceUrl": "https://news.ycombinator.com/item?id=50103931",
     "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "sys2txt",
+    "name": "Sys2txt",
+    "category": "audio-music",
+    "tagline": "transcribe system audio to text in the CLI with a local LLM",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://joe-heffer.github.io/sys2txt",
+    "description": "sys2txt is a command line tool that records whatever audio your Linux machine is playing (via PulseAudio/PipeWire's monitor source) and transcribes it live with Whisper, OpenAI's AI-based speech-to-text model. I use it to caption meetings, videos, and calls playing on my own machine without routing audio through anything else. It supports faster-whisper, openai-whisper, and whisper.cpp (with Vulkan GPU support for AM",
+    "tags": [
+      "Video",
+      "Audio Music"
+    ],
+    "features": [
+      "Create or enhance spoken and musical audio",
+      "Work through a simple creative interface",
+      "Export audio for common workflows",
+      "Iterate on sound and voice ideas"
+    ],
+    "discoveredAt": "2026-10-17",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50129017",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "rstation",
+    "name": "rStation",
+    "category": "research-knowledge",
+    "tagline": "A shared research lab for your AI agents",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://rstation.ai",
+    "description": "rStation is a newly discovered AI product for research knowledge. A shared research lab for your AI agents.",
+    "tags": [
+      "Research",
+      "Research Knowledge"
+    ],
+    "features": [
+      "Find and synthesize useful information",
+      "Explore questions through natural language",
+      "Organize research into clear outputs",
+      "Move from sources to understanding"
+    ],
+    "discoveredAt": "2026-10-17",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50118876",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "cr34te-it",
+    "name": "Cr34te.it",
+    "category": "text-writing",
+    "tagline": "a website anyone can rewrite one turn at a time with AI",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://cr34te.it",
+    "description": "Yeah I built this out of a silly idea a couple of weeks ago. You can change what the website shows. You may change minor things or add something completely new. It bascially works like that: 1. You claim a turn. If the queue is empty, you start right away. 2. When it's your turn, you copy a prompt to a web based AI or - more comfy - our local coding agent. 3. The AI will fetch the current status of the website and as",
+    "tags": [
+      "Text Writing"
+    ],
+    "features": [
+      "Create and refine written content",
+      "Summarize and restructure text",
+      "Adapt voice for different audiences",
+      "Move from prompt to draft quickly"
+    ],
+    "discoveredAt": "2026-10-17",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50117588",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "flashpapers",
+    "name": "Flashpapers",
+    "category": "research-knowledge",
+    "tagline": "Interactive explainers for AI papers",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://flashpapers.ai",
+    "description": "Flashpapers is a newly discovered AI product for research knowledge. Interactive explainers for AI papers.",
+    "tags": [
+      "Research",
+      "Research Knowledge"
+    ],
+    "features": [
+      "Find and synthesize useful information",
+      "Explore questions through natural language",
+      "Organize research into clear outputs",
+      "Move from sources to understanding"
+    ],
+    "discoveredAt": "2026-10-17",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50117104",
+    "reviewStatus": "auto-discovered"
   }
 ]
