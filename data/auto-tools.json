@@ -4281,5 +4281,54 @@
     "sourceName": "Hacker News — Show HN AI",
     "sourceUrl": "https://news.ycombinator.com/item?id=50117104",
     "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "sphinx",
+    "name": "Sphinx",
+    "category": "coding-development",
+    "tagline": "A hook that quizzes you on your AI's code before shipping",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://sphinx-six-theta.vercel.app",
+    "description": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.",
+    "tags": [
+      "Developer",
+      "Coding Development"
+    ],
+    "features": [
+      "Accelerate common development tasks",
+      "Work with contextual code assistance",
+      "Explain and improve technical work",
+      "Move from idea to working software"
+    ],
+    "discoveredAt": "2026-10-18",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50137950",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "bitty",
+    "name": "Bitty",
+    "category": "coding-development",
+    "tagline": "Turn AI coding wait time into brain breaks",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://playbitty.com",
+    "description": "Bitty is a newly discovered AI product for coding development. Turn AI coding wait time into brain breaks.",
+    "tags": [
+      "Coding Development"
+    ],
+    "features": [
+      "Accelerate common development tasks",
+      "Work with contextual code assistance",
+      "Explain and improve technical work",
+      "Move from idea to working software"
+    ],
+    "discoveredAt": "2026-10-18",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50133119",
+    "reviewStatus": "auto-discovered"
   }
 ]

@@ -1539,3 +1539,37 @@
 {"timestamp": "2026-10-17T08:32:33.693281+00:00", "event": "tool_staged_for_review", "slug": "rstation", "category": "research-knowledge", "source": "Hacker News — Show HN AI"}
 {"timestamp": "2026-10-17T08:32:33.693299+00:00", "event": "tool_staged_for_review", "slug": "cr34te-it", "category": "text-writing", "source": "Hacker News — Show HN AI"}
 {"timestamp": "2026-10-17T08:32:33.693314+00:00", "event": "tool_staged_for_review", "slug": "flashpapers", "category": "research-knowledge", "source": "Hacker News — Show HN AI"}
+{"timestamp": "2026-10-18T08:50:11.247796+00:00", "event": "source_ok", "source": "Hacker News — Show HN AI", "candidates": 33}
+{"timestamp": "2026-10-18T08:50:11.250216+00:00", "event": "candidate_rejected", "name": "Local Host", "reason": "low_confidence"}
+{"timestamp": "2026-10-18T08:50:11.250620+00:00", "event": "candidate_rejected", "name": "Primerkit", "reason": "low_confidence"}
+{"timestamp": "2026-10-18T08:50:11.250739+00:00", "event": "candidate_rejected", "name": "Vstorm Co", "reason": "low_confidence"}
+{"timestamp": "2026-10-18T08:50:11.250847+00:00", "event": "candidate_rejected", "name": "KIRA", "reason": "low_confidence"}
+{"timestamp": "2026-10-18T08:50:11.250950+00:00", "event": "candidate_rejected", "name": "Walden", "reason": "low_confidence"}
+{"timestamp": "2026-10-18T08:50:11.251061+00:00", "event": "candidate_rejected", "name": "InBox Wall", "reason": "duplicate"}
+{"timestamp": "2026-10-18T08:50:11.251176+00:00", "event": "candidate_rejected", "name": "Pay-per-Crawl", "reason": "low_confidence"}
+{"timestamp": "2026-10-18T08:50:11.251276+00:00", "event": "candidate_rejected", "name": "TezGrid", "reason": "low_confidence"}
+{"timestamp": "2026-10-18T08:50:11.251461+00:00", "event": "candidate_rejected", "name": "Would You Merge It?", "reason": "low_confidence"}
+{"timestamp": "2026-10-18T08:50:11.251566+00:00", "event": "candidate_rejected", "name": "Baa", "reason": "low_confidence"}
+{"timestamp": "2026-10-18T08:50:11.251665+00:00", "event": "candidate_rejected", "name": "AegisKernel", "reason": "low_confidence"}
+{"timestamp": "2026-10-18T08:50:11.251781+00:00", "event": "candidate_rejected", "name": "Cuore", "reason": "low_confidence"}
+{"timestamp": "2026-10-18T08:50:11.251882+00:00", "event": "candidate_rejected", "name": "Roadster AI", "reason": "low_confidence"}
+{"timestamp": "2026-10-18T08:50:11.251983+00:00", "event": "candidate_rejected", "name": "CiteLadder", "reason": "duplicate"}
+{"timestamp": "2026-10-18T08:50:11.252091+00:00", "event": "candidate_rejected", "name": "Sys2txt", "reason": "duplicate"}
+{"timestamp": "2026-10-18T08:50:11.252190+00:00", "event": "candidate_rejected", "name": "Github", "reason": "low_confidence"}
+{"timestamp": "2026-10-18T08:50:11.252293+00:00", "event": "candidate_rejected", "name": "Wysebee", "reason": "low_confidence"}
+{"timestamp": "2026-10-18T08:50:11.252437+00:00", "event": "candidate_rejected", "name": "Github", "reason": "low_confidence"}
+{"timestamp": "2026-10-18T08:50:11.252538+00:00", "event": "candidate_rejected", "name": "Ozil AI", "reason": "low_confidence"}
+{"timestamp": "2026-10-18T08:50:11.252636+00:00", "event": "candidate_rejected", "name": "Weatherdeck", "reason": "duplicate"}
+{"timestamp": "2026-10-18T08:50:11.252740+00:00", "event": "candidate_rejected", "name": "Kapwing", "reason": "generic_fallback_description"}
+{"timestamp": "2026-10-18T08:50:11.252835+00:00", "event": "candidate_rejected", "name": "Aegis", "reason": "low_confidence"}
+{"timestamp": "2026-10-18T08:50:11.252946+00:00", "event": "candidate_rejected", "name": "Blog", "reason": "low_confidence"}
+{"timestamp": "2026-10-18T08:50:11.253043+00:00", "event": "candidate_rejected", "name": "Termexo", "reason": "duplicate"}
+{"timestamp": "2026-10-18T08:50:11.253157+00:00", "event": "candidate_rejected", "name": "Github", "reason": "low_confidence"}
+{"timestamp": "2026-10-18T08:50:11.253256+00:00", "event": "candidate_rejected", "name": "Busabase", "reason": "low_confidence"}
+{"timestamp": "2026-10-18T08:50:11.253370+00:00", "event": "candidate_rejected", "name": "rStation", "reason": "duplicate"}
+{"timestamp": "2026-10-18T08:50:11.253493+00:00", "event": "candidate_rejected", "name": "Ndroo", "reason": "low_confidence"}
+{"timestamp": "2026-10-18T08:50:11.253606+00:00", "event": "candidate_rejected", "name": "SlopGrid", "reason": "low_confidence"}
+{"timestamp": "2026-10-18T08:50:11.253715+00:00", "event": "candidate_rejected", "name": "Github", "reason": "duplicate"}
+{"timestamp": "2026-10-18T08:50:11.253812+00:00", "event": "candidate_rejected", "name": "AegisKernel", "reason": "low_confidence"}
+{"timestamp": "2026-10-18T08:50:11.257773+00:00", "event": "tool_staged_for_review", "slug": "sphinx", "category": "coding-development", "source": "Hacker News — Show HN AI"}
+{"timestamp": "2026-10-18T08:50:11.257828+00:00", "event": "tool_staged_for_review", "slug": "bitty", "category": "coding-development", "source": "Hacker News — Show HN AI"}
