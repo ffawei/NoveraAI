@@ -4330,5 +4330,156 @@
     "sourceName": "Hacker News — Show HN AI",
     "sourceUrl": "https://news.ycombinator.com/item?id=50133119",
     "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "uidesigneditor",
+    "name": "Uidesigneditor",
+    "category": "design-ux",
+    "tagline": "Hey, sometimes it's easier to just move around some buttons in an editor instead of waiting a minute for the AI result. E.g. take a screenshot of your UI, cut out a button, move it",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://uidesigneditor.com",
+    "description": "Uidesigneditor is a newly discovered AI product for design ux. Hey, sometimes it's easier to just move around some buttons in an editor instead of waiting a minute for the AI result. E.g. take a screenshot of your UI, cut out a button, move it around to see what it looks like. Your.",
+    "tags": [
+      "Design",
+      "Design UX"
+    ],
+    "features": [
+      "Generate and refine interface ideas",
+      "Explore multiple design directions",
+      "Create editable product concepts",
+      "Shorten early design workflows"
+    ],
+    "discoveredAt": "2026-10-19",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50150221",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "stream-reducer",
+    "name": "Stream Reducer",
+    "category": "text-writing",
+    "tagline": "Podcast/Video AI Summarization at Scale",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://reducer.xgoose.org",
+    "description": "Stream Reducer is a newly discovered AI product for text writing. Podcast/Video AI Summarization at Scale.",
+    "tags": [
+      "Video",
+      "Writing",
+      "Text Writing"
+    ],
+    "features": [
+      "Create and refine written content",
+      "Summarize and restructure text",
+      "Adapt voice for different audiences",
+      "Move from prompt to draft quickly"
+    ],
+    "discoveredAt": "2026-10-19",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50147957",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "wisp",
+    "name": "Wisp",
+    "category": "audio-music",
+    "tagline": "a voice AI on your shoulder, with spatial audio in the browser",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://wispplayer.com",
+    "description": "Wisp is a newly discovered AI product for audio music. a voice AI on your shoulder, with spatial audio in the browser.",
+    "tags": [
+      "Voice",
+      "Music",
+      "Audio Music"
+    ],
+    "features": [
+      "Create or enhance spoken and musical audio",
+      "Work through a simple creative interface",
+      "Export audio for common workflows",
+      "Iterate on sound and voice ideas"
+    ],
+    "discoveredAt": "2026-10-19",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50141830",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "documemory",
+    "name": "DocuMemory",
+    "category": "coding-development",
+    "tagline": "Persistent memory and context for AI coding tools",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://www.documemory.dev",
+    "description": "DocuMemory is a newly discovered AI product for coding development. Persistent memory and context for AI coding tools.",
+    "tags": [
+      "Coding Development"
+    ],
+    "features": [
+      "Accelerate common development tasks",
+      "Work with contextual code assistance",
+      "Explain and improve technical work",
+      "Move from idea to working software"
+    ],
+    "discoveredAt": "2026-10-19",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50141365",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "meetcap",
+    "name": "MeetCap",
+    "category": "audio-music",
+    "tagline": "Free on-device meeting transcription your AI agent can run",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://meetcap.seacen.dev",
+    "description": "MeetCap records your meetings, transcribes them on your computer, and works with your AI agent in both directions. Your agent can run it. In Claude Code, Codex or any agent that can load a skill, say \"record this meeting\" and the menu bar icon turns into a red dot. The agent can also stop the recording, name speakers, get the minutes, and search past meetings. It can run your agent. Pick one you already use and MeetC",
+    "tags": [
+      "Developer",
+      "Audio Music"
+    ],
+    "features": [
+      "Create or enhance spoken and musical audio",
+      "Work through a simple creative interface",
+      "Export audio for common workflows",
+      "Iterate on sound and voice ideas"
+    ],
+    "discoveredAt": "2026-10-19",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50140879",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "flying-car-ai",
+    "name": "Flying Car AI",
+    "category": "image-generation",
+    "tagline": "make your car or your product fly from one photo",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://flyingcar-ai.org",
+    "description": "Flying Car AI is a newly discovered AI product for image generation. make your car or your product fly from one photo.",
+    "tags": [
+      "Images",
+      "Image Generation"
+    ],
+    "features": [
+      "Generate visual concepts from prompts",
+      "Explore style and composition options",
+      "Create reusable creative assets",
+      "Iterate on visual directions quickly"
+    ],
+    "discoveredAt": "2026-10-19",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50140152",
+    "reviewStatus": "auto-discovered"
   }
 ]
