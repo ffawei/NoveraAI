@@ -4481,5 +4481,129 @@
     "sourceName": "Hacker News — Show HN AI",
     "sourceUrl": "https://news.ycombinator.com/item?id=50140152",
     "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "sandkiln",
+    "name": "Sandkiln",
+    "category": "coding-development",
+    "tagline": "Fast Firecracker MicroVM sandboxes for AI-generated code",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://sandkiln.vercel.app",
+    "description": "Sandkiln is a newly discovered AI product for coding development. Fast Firecracker MicroVM sandboxes for AI-generated code.",
+    "tags": [
+      "Developer",
+      "Coding Development"
+    ],
+    "features": [
+      "Accelerate common development tasks",
+      "Work with contextual code assistance",
+      "Explain and improve technical work",
+      "Move from idea to working software"
+    ],
+    "discoveredAt": "2026-10-20",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50163287",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "xtract-production-2efc",
+    "name": "Xtract Production 2Efc",
+    "category": "research-knowledge",
+    "tagline": "We presented this project at innovationintelligencehackathon.com and today we are putting a url out for you to test and give us feedback. after talking to teams building agents tha",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://xtract-production-2efc.up.railway.app",
+    "description": "We presented this project at innovationintelligencehackathon.com and today we are putting a url out for you to test and give us feedback. after talking to teams building agents that research companies to create outreach, we found few things that are very important to them. one of them is recency. When we prompted agents with outdated alert about companies, 4 out of 7 times, they came up with outdated insights, even w",
+    "tags": [
+      "Research",
+      "Research Knowledge"
+    ],
+    "features": [
+      "Find and synthesize useful information",
+      "Explore questions through natural language",
+      "Organize research into clear outputs",
+      "Move from sources to understanding"
+    ],
+    "discoveredAt": "2026-10-20",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50160830",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "chai-ui",
+    "name": "Chai-UI",
+    "category": "design-ux",
+    "tagline": "A design system to generative AI apps",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://chai-ui.com",
+    "description": "Chai-UI is a newly discovered AI product for design ux. A design system to generative AI apps.",
+    "tags": [
+      "Design",
+      "Design UX"
+    ],
+    "features": [
+      "Generate and refine interface ideas",
+      "Explore multiple design directions",
+      "Create editable product concepts",
+      "Shorten early design workflows"
+    ],
+    "discoveredAt": "2026-10-20",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50159662",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "craig",
+    "name": "Craig",
+    "category": "coding-development",
+    "tagline": "A TUI for running parallel coding agents",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://craig-cli.com",
+    "description": "Craig is a newly discovered AI product for coding development. A TUI for running parallel coding agents.",
+    "tags": [
+      "Coding Development"
+    ],
+    "features": [
+      "Accelerate common development tasks",
+      "Work with contextual code assistance",
+      "Explain and improve technical work",
+      "Move from idea to working software"
+    ],
+    "discoveredAt": "2026-10-20",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50157942",
+    "reviewStatus": "auto-discovered"
+  },
+  {
+    "slug": "marcus",
+    "name": "Marcus",
+    "category": "research-knowledge",
+    "tagline": "catches the fake source links AI search engines invent",
+    "pricing": "Freemium",
+    "rating": 0.0,
+    "featured": false,
+    "website": "https://marcus-ai.dev/on-the-record",
+    "description": "Marcus is a newly discovered AI product for research knowledge. catches the fake source links AI search engines invent.",
+    "tags": [
+      "Research",
+      "Research Knowledge"
+    ],
+    "features": [
+      "Find and synthesize useful information",
+      "Explore questions through natural language",
+      "Organize research into clear outputs",
+      "Move from sources to understanding"
+    ],
+    "discoveredAt": "2026-10-20",
+    "sourceName": "Hacker News — Show HN AI",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50151466",
+    "reviewStatus": "auto-discovered"
   }
 ]
